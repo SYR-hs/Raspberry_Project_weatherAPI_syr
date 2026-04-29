@@ -2,7 +2,7 @@
 
 소스코드는 mainCode.py 파일에 정리되어 있습니다.
 
-라즈베리파이 LED 제어 시연 영상 링크: https://youtube.com/shorts/Nic6iy6m7Ow?feature=share
+라즈베리파이 LED 제어 시연 영상 링크: 
 
 ----
 
